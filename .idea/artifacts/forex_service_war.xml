@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="forex-service:war">
+    <output-path>$PROJECT_DIR$/forex-service/target</output-path>
+    <root id="archive" name="forex-service.war">
+      <element id="artifact" artifact-name="forex-service:war exploded" />
+    </root>
+  </artifact>
+</component>

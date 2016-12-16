@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/forex.iml" filepath="$PROJECT_DIR$/forex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forex-client/forex-client.iml" filepath="$PROJECT_DIR$/forex-client/forex-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forex-service/forex-service.iml" filepath="$PROJECT_DIR$/forex-service/forex-service.iml" />
+    </modules>
+  </component>
+</project>
